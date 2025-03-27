@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
   return (
     <>
-      <h1 className='fs-2 p-3 text-slate-500'>Hello World</h1>
+      <h1 className='fs-2 p-3 text-slate-500'>Testing</h1>
     </>
   )
 }
